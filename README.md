@@ -1,102 +1,132 @@
 <div align="center">
 
-![][banner]
+<h1 align="center"><img src="./README.assets/dendro.png" width="50px" style="max-width: 100%;"> Сайн уу!, I'm c1truus</h1>
 
-<h1 align="center"><img src="./README.assets/dendro.png" width="50px" style="max-width: 100%;"> Hi there, I'm c1truus</h1>
-
-An AI/ML & Full-Stack Developer passion for exploring Embedded Systems and Robotics .
+<p align="center">Wannabe AI/ML & Full-Stack Developer with a passion for Embedded Systems and Robotics</p>
 
 [![][social-youtube-shield]][social-youtube-link]
 [![][social-linkedin-shield]][social-linkedin-link]
 [![][social-email-shield]][social-email-link]
 
-![][split]
-
+<img src="https://komarev.com/ghpvc/?username=c1truus&color=006600&style=flat-square" alt="Profile views" />
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&color=06B6D4&center=true&vCenter=true&width=500&lines=Life+begins+as+I+corrode" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=006600&center=true&vCenter=true&width=500&lines=Life+begins+as+I+corrode;" alt="Typing SVG" /></a>
 </div>
 
-## 💫 Tech Stack & Tools
+---
+<!--![][banner]-->
+
+## 🤓 About Me
+I'm a Senior Year Undergrad in **Beijing Institute of Technology** `I like to call it bit :3` , My major is **Artificial Intelligence**.
+
+I'm a versatile developer, I like **AI/ML**, **Embedded Systems**, **Full-Stack Development**, **Robotics and 3D CAD Desinging and Printing**.
+
+My curiosity drives me to explore the intersections of hardware and software, from designing neural networks to programming microcontrollers. 
+
+I thrive on solving complex problems and building systems that make a real-world impact.
+But truthfully I just like see the project that I wanted become a reality and be amazed that it works.
+
+- 🌟 Passionate about **AI**, **Robotics**, **Computer Vision**, and **IoT & Embedded Systems**.
+- 🔍 Always learning and experimenting with new tools, frameworks and electrical zip zaps.
+- 🤝 Open to collaboration on exciting projects let's create something extraordinary! 
+
+---
+
+## 💻 Tech Stack & Tools
 
 ### 🔧 Core Development
 | Domain           | Technologies                                                                 |
-| :--------------- | :--------------------------------------------------------------------------- |
+|------------------|------------------------------------------------------------------------------|
 | **Embedded**     | ![][embedded-c] ![][embedded-cpp] ![][embedded-arduino] ![][embedded-stm32] ![][embedded-esp32] |
 | **AI/ML**        | ![][ml-pytorch] ![][ml-tensorflow] ![][ml-keras] ![][ml-scikit] ![][ml-cuda] ![][ml-jupyter] |
-| **Backend**      | ![][backend-python] ![][backend-cmake] ![][backend-ros2] |
-| **Frontend**     | ![][frontend-js] ![][frontend-css] |
+| **Backend**      | ![][backend-python] ![][backend-cmake] ![][backend-ros2] ![][backend-nodejs] |
+| **Frontend**     | ![][frontend-js] ![][frontend-css] ![][frontend-react] |
 
-### 🎨 Design & Tools
+### 🎨 De & Tools
 | Domain           | Technologies                                                                 |
-| :--------------- | :--------------------------------------------------------------------------- |
+|------------------|------------------------------------------------------------------------------|
 | **CAD/EDA**      | ![][design-onshape] ![][design-kicad] ![][design-bambu] ![][design-vivado] ![][design-verilog] |
 | **Media**        | ![][design-gimp] ![][design-kdenlive] ![][design-reaper] |
 | **IDE/Editors**  | ![][ide-neovim] ![][ide-vscode] ![][ide-qt] ![][ide-stm32cube] |
 
 ### ⚙️ Systems & DevOps
 | Domain           | Technologies                                                                 |
-| :--------------- | :--------------------------------------------------------------------------- |
-| **OS/Platforms** | ![][os-ubuntu] ![][os-raspberrypi] |
-| **Tools**        | ![][tools-markdown] ![][tools-latex] ![][tools-libreoffice] ![][tools-ssh] ![][tools-shell] |
+|------------------|------------------------------------------------------------------------------|
+| **OS/Platforms** | ![][os-ubuntu] ![][os-raspberrypi] ![][os-windows] |
+| **Tools**        | ![][tools-markdown] ![][tools-latex] ![][tools-libreoffice] ![][tools-ssh] ![][tools-shell] ![][tools-git] ![][tools-docker] |
+
+---
 
 ## 🚀 Featured Projects
 
 ### 🤖 Embedded Systems & FPGA
-- **[Morphological Filter FPGA](https://github.com/c1truus/morphological-filter-fpga)** - Hardware-accelerated image processing implementation on FPGA
+- **[Morphological Filter FPGA](https://github.com/c1truus/morphological-filter-fpga)**  
+  Hardware-accelerated image processing implementation on FPGA.
 
-
-### 🧠 AI/ML & Computer Vision  
-- **[Crop vs Weed Classifier](https://github.com/c1truus/crop-vs-weed-classified-using-CNN)** - CNN-based agricultural classification system
-- **[Hand-Drawn Doodle Classifier](https://github.com/c1truus/Hand-Drawn-Doodle-Classsifier)** - Neural network for sketch recognition and classification
-- **[XGBoost Classification](https://github.com/c1truus/aaa)** - Higgs Boson Event Classification with XGBoost
-
+### 🧠 AI/ML & Computer Vision
+- **[Crop vs Weed Classifier](https://github.com/c1truus/crop-vs-weed-classified-using-CNN)**  
+  CNN-based agricultural classification system for precision farming.
+- **[Hand-Drawn Doodle Classifier](https://github.com/c1truus/Hand-Drawn-Doodle-Classsifier)**  
+  Neural network for recognizing and classifying hand-drawn sketches.
+- **[XGBoost Classification](https://github.com/c1truus/aaa)**  
+  Higgs Boson event classification using XGBoost for high-energy physics.
 
 ### 🌐 Full-Stack Applications
-- **[DCMS](https://github.com/c1truus/DCMS)** - Full-stack Dental Clinic Management System with Qt Creator 
-- **[DCMS Server](https://github.com/c1truus/DCMS-server)** - Robust backend API and database management system
-- **[International Bookstore Data Base](https://github.com/c1truus/International-Bookstore)** - Multi-language Book Store's Data Base design blueprint using MySQL
-- **[SHMS](https://github.com/c1truus/SHMS)** - Student Housing Management System with comprehensive features
+- **[DCMS](https://github.com/c1truus/DCMS)**  
+  Full-stack Dental Clinic Management System built with Qt Creator.
+- **[DCMS Server](https://github.com/c1truus/DCMS-server)**  
+  Robust backend API and database management system.
+- **[International Bookstore Database](https://github.com/c1truus/International-Bookstore)**  
+  Multi-language bookstore database design using MySQL.
+- **[SHMS](https://github.com/c1truus/SHMS)**  
+  Comprehensive Student Housing Management System.
 
 ### 🔄 Ongoing & Future Development
-- **Embedded Robotics** - ROS2 and sensor integration projects (in development)
-- **IoT Sensor Networks** - Real-time environmental monitoring systems
-- **ML Model Optimization** - Edge deployment and performance enhancements
+- **Embedded Robotics**: Developing ROS2-based systems with sensor integration.
+- **IoT Sensor Networks**: Building real-time environmental monitoring solutions.
+- **ML Model Optimization**: Enhancing performance for edge device deployment.
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c1truus&show_icons=true&theme=radical&title_color=FFE652&text_color=71DFE7&hide_border=1&border_radius=10" alt="c1truus GitHub Stats"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c1truus&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="c1truus Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=c1truus&show_icons=true&theme=radical&title_color=FFE652&text_color=71DFE7&hide_border=1&border_radius=10" alt="c1truus GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c1truus&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="c1truus Top Languages" width="30%">
 </div>
 
 <div align="center">
-  <img src="https://github-contrib-stats.vercel.app/api/?username=c1truus" alt="Repos I created">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c1truus&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%">
 </div>
 
-## 📫 Let's Connect
+---
+
+## 🏅 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=c1truus&theme=radical&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🖇️ Let's Connect
 
 > [!NOTE]
-> Always open to collaborating on interesting projects and discussing new ideas!
+> I'm always excited to collaborate on innovative projects or discuss new ideas! Feel free to reach out.
 
 <div align="center">
-
-**Reach out and let's build something amazing together!** 🚀✨
-
+  <strong>Let's build something extraordinary together! :> </strong>
 </div>
 
-<div align="right">
-
-![][signature]
-
-</div>
+<!--<div align="right">
+  <img src="./README.assets/signature.svg" alt="Signature" width="150px" />
+</div> -->
 
 <!-- SHIELD GROUP -->
 [banner]: ./README.assets/TheDestroyerOfTheWorld.jpg
-<!-- [signature]: ./README.assets/signature.svg -->
-[split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
 
 <!-- Social Links -->
 [social-youtube-shield]: https://img.shields.io/badge/-YouTube-black?labelColor=black&logo=youtube&logoColor=white&style=flat-square
@@ -125,10 +155,12 @@ An AI/ML & Full-Stack Developer passion for exploring Embedded Systems and Robot
 [backend-python]: https://img.shields.io/badge/-Python-000?style=flat-square&logoColor=white&logo=python
 [backend-cmake]: https://img.shields.io/badge/-CMake-000?style=flat-square&logoColor=white&logo=cmake
 [backend-ros2]: https://img.shields.io/badge/-ROS2-000?style=flat-square&logoColor=white&logo=ros
+[backend-nodejs]: https://img.shields.io/badge/-Node.js-000?style=flat-square&logoColor=white&logo=nodedotjs
 
 <!-- Frontend Technologies -->
 [frontend-js]: https://img.shields.io/badge/-JavaScript-000?style=flat-square&logoColor=white&logo=javascript
 [frontend-css]: https://img.shields.io/badge/-CSS3-000?style=flat-square&logoColor=white&logo=css3
+[frontend-react]: https://img.shields.io/badge/-React-000?style=flat-square&logoColor=white&logo=react
 
 <!-- Design & CAD Tools -->
 [design-onshape]: https://img.shields.io/badge/-OnShape-000?style=flat-square&logoColor=white&logo=onshape
@@ -149,6 +181,7 @@ An AI/ML & Full-Stack Developer passion for exploring Embedded Systems and Robot
 <!-- OS & Platforms -->
 [os-ubuntu]: https://img.shields.io/badge/-Ubuntu-000?style=flat-square&logoColor=white&logo=ubuntu
 [os-raspberrypi]: https://img.shields.io/badge/-Raspberry_Pi-000?style=flat-square&logoColor=white&logo=raspberrypi
+[os-windows]: https://img.shields.io/badge/-Windows-000?style=flat-square&logoColor=white&logo=windows
 
 <!-- Tools -->
 [tools-markdown]: https://img.shields.io/badge/-Markdown-000?style=flat-square&logoColor=white&logo=markdown
@@ -156,3 +189,5 @@ An AI/ML & Full-Stack Developer passion for exploring Embedded Systems and Robot
 [tools-libreoffice]: https://img.shields.io/badge/-LibreOffice-000?style=flat-square&logoColor=white&logo=libreoffice
 [tools-ssh]: https://img.shields.io/badge/-SSH-000?style=flat-square&logoColor=white&logo=ssh
 [tools-shell]: https://img.shields.io/badge/-Shell_Script-000?style=flat-square&logoColor=white&logo=gnubash
+[tools-git]: https://img.shields.io/badge/-Git-000?style=flat-square&logoColor=white&logo=git
+[tools-docker]: https://img.shields.io/badge/-Docker-000?style=flat-square&logoColor=white&logo=docker
