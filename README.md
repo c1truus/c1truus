@@ -4,7 +4,7 @@
 
 <h1 align="center"><img src="./README.assets/dendro.png" width="50px" style="max-width: 100%;"> Hi there, I'm c1truus</h1>
 
-A passionate developer exploring Embedded Systems, AI/ML & Full-Stack Development.
+An AI/ML & Full-Stack Developer passion for exploring Embedded Systems and Robotics .
 
 [![][social-youtube-shield]][social-youtube-link]
 [![][social-linkedin-shield]][social-linkedin-link]
