@@ -2,7 +2,7 @@
 
 ![][banner]
 
-<h1 align="center"><img src="gif_link" width="50px" style="max-width: 100%;"> Hi there, I'm c1truus</h1>
+<h1 align="center"><img src="./README.assets/dendro.png" width="50px" style="max-width: 100%;"> Hi there, I'm c1truus</h1>
 
 A passionate developer exploring Embedded Systems, AI/ML & Full-Stack Development.
 
@@ -95,8 +95,8 @@ A passionate developer exploring Embedded Systems, AI/ML & Full-Stack Developmen
 </div>
 
 <!-- SHIELD GROUP -->
-[banner]: ./README.assets/banner.webp
-[signature]: ./README.assets/signature.svg
+[banner]: ./README.assets/TheDestroyerOfTheWorld.jpg
+<!-- [signature]: ./README.assets/signature.svg -->
 [split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
 
 <!-- Social Links -->
