@@ -43,20 +43,19 @@ But truthfully I just like see the project that I wanted become a reality and be
 | **Embedded**     | ![][embedded-c] ![][embedded-cpp] ![][embedded-arduino] ![][embedded-stm32] ![][embedded-esp32] |
 | **AI/ML**        | ![][ml-pytorch] ![][ml-tensorflow] ![][ml-keras] ![][ml-scikit] ![][ml-cuda] ![][ml-jupyter] |
 | **Backend**      | ![][backend-python] ![][backend-cmake] ![][backend-ros2] ![][backend-nodejs] |
-| **Frontend**     | ![][frontend-js] ![][frontend-css] ![][frontend-react] |
 
-### 🎨 De & Tools
+### 🎨 Dev Tools
 | Domain           | Technologies                                                                 |
 |------------------|------------------------------------------------------------------------------|
-| **CAD/EDA**      | ![][design-onshape] ![][design-kicad] ![][design-bambu] ![][design-vivado] ![][design-verilog] |
+| **CAD/EDA**      | ![][design-onshape] ![][design-kicad] ![][design-bambu] |
 | **Media**        | ![][design-gimp] ![][design-kdenlive] ![][design-reaper] |
 | **IDE/Editors**  | ![][ide-neovim] ![][ide-vscode] ![][ide-qt] ![][ide-stm32cube] |
 
 ### ⚙️ Systems & DevOps
 | Domain           | Technologies                                                                 |
 |------------------|------------------------------------------------------------------------------|
-| **OS/Platforms** | ![][os-ubuntu] ![][os-raspberrypi] ![][os-windows] |
-| **Tools**        | ![][tools-markdown] ![][tools-latex] ![][tools-libreoffice] ![][tools-ssh] ![][tools-shell] ![][tools-git] ![][tools-docker] |
+| **OS/Platforms** | ![][os-ubuntu] ![][os-raspberrypi] |
+| **Tools**        | ![][tools-markdown] ![][tools-latex] ![][tools-libreoffice] ![][tools-shell] ![][tools-git] |
 
 ---
 
@@ -118,7 +117,7 @@ But truthfully I just like see the project that I wanted become a reality and be
 > I'm always excited to collaborate on innovative projects or discuss new ideas! Feel free to reach out.
 
 <div align="center">
-  <strong>Let's build something extraordinary together! :> </strong>
+  <strong>Let's build something extraordinary together! :3 </strong>
 </div>
 
 <!--<div align="right">
