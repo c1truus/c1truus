@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center"><img src="./README.assets/dendro.png" width="50px" style="max-width: 100%;"> Сайн уу!, I'm c1truus</h1>
+<h1 align="center"><img src="./README.assets/dendro.png" width="50px" style="max-width: 100%;"> Сайн уу! I'm c1truus</h1>
 
 <p align="center">Wannabe AI/ML & Full-Stack Developer with a passion for Embedded Systems and Robotics</p>
 
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=006600&center=true&vCenter=true&width=500&lines=Life+begins+as+I+corrode;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=006600&center=true&vCenter=true&width=500&lines=A+star+died+to+make+you+and+you+find+no+romance+in+that;" alt="Typing SVG" /></a>
 </div>
 
 ---
