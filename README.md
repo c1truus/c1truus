@@ -20,7 +20,7 @@
 <!--![][banner]-->
 
 ## 🤓 About Me
-I'm a Senior Year Undergrad in **Beijing Institute of Technology** `I like to call it bit :3` , My major is **Artificial Intelligence**.
+I'm a Senior Year Undergrad in **Beijing Institute of Technology** `I like to call it bit` , My major is **Artificial Intelligence**.
 
 I'm a versatile developer, I like **AI/ML**, **Embedded Systems**, **Full-Stack Development**, **Robotics and 3D CAD Desinging and Printing**.
 
@@ -29,29 +29,30 @@ My curiosity drives me to explore the intersections of hardware and software, fr
 I thrive on solving complex problems and building systems that make a real-world impact.
 But truthfully I just like see the project that I wanted become a reality and be amazed that it works.
 
-- 🌟 Passionate about **AI**, **Robotics**, **Computer Vision**, and **IoT & Embedded Systems**.
-- 🔍 Always learning and experimenting with new tools, frameworks and electrical zip zaps.
-- 🤝 Open to collaboration on exciting projects let's create something extraordinary! 
+- Passionate about **AI**, **Robotics**, **Computer Vision**, and **IoT & Embedded Systems**.
+- Always learning and experimenting with new tools, frameworks and electrical zip zaps.
+- 3D modeling and printing
+- Currently dipping my toes into PCB designing. 
 
 ---
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
-### 🔧 Core Development
+### Core Development
 | Domain           | Technologies                                                                 |
 |------------------|------------------------------------------------------------------------------|
 | **Embedded**     | ![][embedded-c] ![][embedded-cpp] ![][embedded-arduino] ![][embedded-stm32] ![][embedded-esp32] |
 | **AI/ML**        | ![][ml-pytorch] ![][ml-tensorflow] ![][ml-keras] ![][ml-scikit] ![][ml-cuda] ![][ml-jupyter] |
 | **Backend**      | ![][backend-python] ![][backend-cmake] ![][backend-ros2] ![][backend-nodejs] |
 
-### 🎨 Dev Tools
+### Dev Tools
 | Domain           | Technologies                                                                 |
 |------------------|------------------------------------------------------------------------------|
 | **CAD/EDA**      | ![][design-onshape] ![][design-kicad] ![][design-bambu] |
 | **Media**        | ![][design-gimp] ![][design-kdenlive] ![][design-reaper] |
 | **IDE/Editors**  | ![][ide-neovim] ![][ide-vscode] ![][ide-qt] ![][ide-stm32cube] |
 
-### ⚙️ Systems & DevOps
+### Systems & DevOps
 | Domain           | Technologies                                                                 |
 |------------------|------------------------------------------------------------------------------|
 | **OS/Platforms** | ![][os-ubuntu] ![][os-raspberrypi] |
@@ -59,13 +60,17 @@ But truthfully I just like see the project that I wanted become a reality and be
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 Embedded Systems & FPGA
+### Embedded Systems & FPGA
 - **[Morphological Filter FPGA](https://github.com/c1truus/morphological-filter-fpga)**  
   Hardware-accelerated image processing implementation on FPGA.
+- **[Koni-Cam](https://github.com/c1truus/Koni-Cam)** \
+  Raspberry Pi based camera - version 2.0
 
-### 🧠 AI/ML & Computer Vision
+### AI/ML & Computer Vision
+- **[AEDDRA](https://github.com/c1truus/AEDDRA)** \
+  Autonomous Explosive Detection & Disposal Robot with AI.
 - **[Crop vs Weed Classifier](https://github.com/c1truus/crop-vs-weed-classified-using-CNN)**  
   CNN-based agricultural classification system for precision farming.
 - **[Hand-Drawn Doodle Classifier](https://github.com/c1truus/Hand-Drawn-Doodle-Classsifier)**  
@@ -73,52 +78,26 @@ But truthfully I just like see the project that I wanted become a reality and be
 - **[XGBoost Classification](https://github.com/c1truus/aaa)**  
   Higgs Boson event classification using XGBoost for high-energy physics.
 
-### 🌐 Full-Stack Applications
+### Full-Stack Applications
 - **[DCMS](https://github.com/c1truus/DCMS)**  
   Full-stack Dental Clinic Management System built with Qt Creator.
-- **[DCMS Server](https://github.com/c1truus/DCMS-server)**  
-  Robust backend API and database management system.
+- **[DCMS RUST Server](https://github.com/c1truus/dcms-rust-server)**  
+  Rust backend API and database management server.
 - **[International Bookstore Database](https://github.com/c1truus/International-Bookstore)**  
   Multi-language bookstore database design using MySQL.
-- **[SHMS](https://github.com/c1truus/SHMS)**  
-  Comprehensive Student Housing Management System.
 
-### 🔄 Ongoing & Future Development
+### Ongoing & Future Development
 - **Embedded Robotics**: Developing ROS2-based systems with sensor integration.
-- **IoT Sensor Networks**: Building real-time environmental monitoring solutions.
-- **ML Model Optimization**: Enhancing performance for edge device deployment.
-
+- **Koni Cam V3**: Building Raspberry Pi 5 based **HQ** Camera. Better sensor, better camera coming up.
+- **SNN on FPGA**: My graduation thesis. Implementing Spiking Neural Network on FPGA.
+-- **8086 16 bit CPU** : I'll design and build Intel 8086 based 16 bit homemade CPU computer from scratch. :)   
+  
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c1truus&show_icons=true&theme=radical&title_color=FFE652&text_color=71DFE7&hide_border=1&border_radius=10" alt="c1truus GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c1truus&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="c1truus Top Languages" width="30%">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c1truus&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%">
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=c1truus&theme=radical&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🖇️ Let's Connect
+## Let's Connect
 
 > [!NOTE]
-> I'm always excited to collaborate on innovative projects or discuss new ideas! Feel free to reach out.
-
-<div align="center">
-  <strong>Let's build something extraordinary together! :3 </strong>
-</div>
+> I'm excited to collaborate on innovative projects or develop new ideas! Feel free to reach out.
 
 <!--<div align="right">
   <img src="./README.assets/signature.svg" alt="Signature" width="150px" />
@@ -129,7 +108,7 @@ But truthfully I just like see the project that I wanted become a reality and be
 
 <!-- Social Links -->
 [social-youtube-shield]: https://img.shields.io/badge/-YouTube-black?labelColor=black&logo=youtube&logoColor=white&style=flat-square
-[social-youtube-link]: https://www.youtube.com/@Koni-Co
+[social-youtube-link]: https://www.youtube.com/@TwoRho
 [social-linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square
 [social-linkedin-link]: https://www.linkedin.com/in/c1truus/
 [social-email-shield]: https://img.shields.io/badge/-Email-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square
