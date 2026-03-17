@@ -89,8 +89,8 @@ But truthfully I just like see the project that I wanted become a reality and be
 ### Ongoing & Future Development
 - **Embedded Robotics**: Developing ROS2-based systems with sensor integration.
 - **Koni Cam V3**: Building Raspberry Pi 5 based **HQ** Camera. Better sensor, better camera coming up.
-- **SNN on FPGA**: My graduation thesis. Implementing Spiking Neural Network on FPGA.
--- **8086 16 bit CPU** : I'll design and build Intel 8086 based 16 bit homemade CPU computer from scratch. :)   
+- **SNN on FPGA**: My graduation thesis. Implementing Spiking Neural Network on FPGA. \
+- **8086 16 bit CPU** : I'll design and build Intel 8086 based 16 bit homemade CPU computer from scratch. :)   
   
 ---
 
